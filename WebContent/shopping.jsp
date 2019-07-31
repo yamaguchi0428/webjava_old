@@ -14,7 +14,7 @@
 <input type="submit"value="カートに入れる"/>
 
 
-<p>商品B</p>
+<p>商品A</p>
 <input type="submit"value="カートに入れる"/>
 
 
